@@ -1,0 +1,6 @@
+{
+  "name": "CodedPad - Private Storage Vault",
+  "description": "Secure private photo and video vault with authenticated local storage, fullstack API, and examiner presentation guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
